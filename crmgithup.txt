@@ -8,3 +8,4 @@ archive
 groupcal
 groupchat 
 added status features
+ADD TRAIN FEATURES
