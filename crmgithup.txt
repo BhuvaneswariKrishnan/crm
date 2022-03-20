@@ -9,3 +9,4 @@ groupcal
 groupchat 
 added status features
 ADD TRAIN FEATURES
+CONFLICT RESOLVE
