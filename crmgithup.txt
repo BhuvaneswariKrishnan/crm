@@ -1,0 +1,7 @@
+chat
+cal
+video
+audio
+group
+hide
+archive
